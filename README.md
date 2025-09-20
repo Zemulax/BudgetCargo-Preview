@@ -1,6 +1,6 @@
 # BudgetCargo-Link
 This is the repo to the preview deployment of the BudgetCargo Web app. use the link to view it.
-
+Your email(used to login) will be deleted within 5 days. I DO NOT INTEND TO USE IT IN ANY CAPACITY.
 https://mango-meadow-04f217a03.2.azurestaticapps.net/
 
 
