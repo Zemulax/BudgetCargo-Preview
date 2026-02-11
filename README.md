@@ -5,6 +5,7 @@ This is the repo to the preview deployment of the BudgetCargo Web app. use the l
 2. https://www.budgetcargomw.com
 
 
-<img width="995" height="1148" alt="image" src="https://github.com/user-attachments/assets/406c37c9-90fd-4d46-8b45-391909ebcc65" />
+<img width="3336" height="1199" alt="image" src="https://github.com/user-attachments/assets/763d664f-84dd-41ad-9dc3-a92a90a6a518" />
+
 
 
